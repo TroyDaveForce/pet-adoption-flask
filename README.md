@@ -15,10 +15,4 @@ Coming soon on Render.com
 pip install flask
 python app.py
 
-→ Open http://localhost:5000
-Built By
-David Ekeke
-LinkedIn | GitHub
 
-Open for Flask & Python freelance projects ($20–$50)
-DM me on LinkedIn or Fiverr!
