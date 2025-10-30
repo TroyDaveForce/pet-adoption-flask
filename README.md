@@ -8,7 +8,7 @@ A Flask-powered pet adoption site with dynamic routing and pet profiles.
 - Clean, production-ready code
 
 ## Live Demo
-[Click to see it live!](http://localhost:5000) *(Deploying soon on Render.com)*
+[Click to see it live!](https://pet-adoption-faxi.onrender.com)
 
 ## How to Run
 ```bash
