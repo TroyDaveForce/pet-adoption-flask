@@ -1,6 +1,6 @@
 # Pet Adoption Web App
 
-A **Flask-powered** pet adoption site with dynamic routing and pet profiles.
+A Flask-powered pet adoption site with dynamic routing and pet profiles.
 
 ## Features
 - Browse dogs, cats, rabbits
@@ -8,11 +8,9 @@ A **Flask-powered** pet adoption site with dynamic routing and pet profiles.
 - Clean, production-ready code
 
 ## Live Demo
-Coming soon on Render.com
+[Click to see it live!](http://localhost:5000) *(Deploying soon on Render.com)*
 
 ## How to Run
 ```bash
 pip install flask
 python app.py
-
-
