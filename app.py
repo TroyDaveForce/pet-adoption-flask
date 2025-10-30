@@ -42,4 +42,4 @@ def pet(pet_type, pet_id):
         return "<h1>Pet not found</h1>"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=10000, debug=True)
